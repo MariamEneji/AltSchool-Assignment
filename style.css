@@ -108,6 +108,7 @@ p {
 .relative {
   position: relative;
   left: 300px;
+  top: -50px;
   
 }
 .link2 {
